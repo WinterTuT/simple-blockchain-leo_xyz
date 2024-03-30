@@ -23,9 +23,9 @@
   "author": "WinterTuT <yuwinter83@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/WinterTuT/simple-blockchain/issues"
+    "url": "https://github.com/WinterTuT/simple-blockchain-leo_xyz/issues"
   },
-  "homepage": "https://github.com/WinterTuT/simple-blockchain#readme",
+  "homepage": "https://github.com/WinterTuT/simple-blockchain-leo_xyz#readme",
   "devDependencies": {
     "jest": "^27.0.0"
   }
