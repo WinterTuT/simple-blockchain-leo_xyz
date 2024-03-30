@@ -1,6 +1,6 @@
 {
   "name": "simple-blockchain-leo_xyz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple blockchain implementation as an npm package",
   "main": "src/blockchain.js",
   "scripts": {
