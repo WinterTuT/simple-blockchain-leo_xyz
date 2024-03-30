@@ -1,0 +1,32 @@
+{
+  "name": "simple-blockchain-leo_xyz",
+  "version": "1.0.0",
+  "description": "A simple blockchain implementation as an npm package",
+  "main": "src/blockchain.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "testMatch": [
+      "**/__tests__/**/*.js?(x)"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WinterTuT/simple-blockchain.git"
+  },
+  "keywords": [
+    "blockchain",
+    "simple"
+  ],
+  "author": "WinterTuT <yuwinter83@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WinterTuT/simple-blockchain/issues"
+  },
+  "homepage": "https://github.com/WinterTuT/simple-blockchain#readme",
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+}
